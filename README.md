@@ -1,4 +1,4 @@
-# UIStepperTouch
+# UIStepper
 
 ![UIStepperTouch](/UIStepperTouch.gif)
 
